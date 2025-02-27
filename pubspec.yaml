@@ -12,7 +12,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  qr_code_scanner: ^1.0.1
+  qr_code_scanner:
+    git: https://github.com/mirzamahmud/qr_scanner_with_effect
+
 
 dev_dependencies:
   flutter_test:
