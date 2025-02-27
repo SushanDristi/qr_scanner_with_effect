@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   qr_code_scanner:
-    git: https://github.com/mirzamahmud/qr_scanner_with_effect
+    git: https://github.com/padiwiseng/qr_code_scanner
 
 
 dev_dependencies:
